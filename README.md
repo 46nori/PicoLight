@@ -4,6 +4,8 @@
 
 **PicoLight** is a 'Rotating Beacon Light' device controlled by Raspberry Pi Pico W. I created it as per my daughter's request :-).
 
+![Light-On](https://github.com/46nori/PicoLight/assets/6856913/0143ed51-ab86-4af1-ac7c-fdcd258776c4)
+
 ## Specifications
 
 - Controller
