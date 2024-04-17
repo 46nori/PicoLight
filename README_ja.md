@@ -2,6 +2,8 @@
 
 娘に頼まれて、Raspberry Pi Pico Wで制御するパトライトを製作しました。
 
+![Light-On](https://github.com/46nori/PicoLight/assets/6856913/0143ed51-ab86-4af1-ac7c-fdcd258776c4)
+
 ## 仕様
 
 - コントローラー
